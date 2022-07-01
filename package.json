@@ -1,7 +1,7 @@
 {
   "name": "js_prjct",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "first_project",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iknowcando/js_prjct/issues"
   },
-  "homepage": "https://github.com/iknowcando/js_prjct#readme"
+  "homepage": "https://github.com/iknowcando/js_prjct#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
