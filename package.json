@@ -1,0 +1,20 @@
+{
+  "name": "js_prjct",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "first_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iknowcando/js_prjct.git"
+  },
+  "author": "ddunix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iknowcando/js_prjct/issues"
+  },
+  "homepage": "https://github.com/iknowcando/js_prjct#readme"
+}
