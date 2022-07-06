@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/iknowcando/js_prjct#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "prompt-sync": "^4.2.0"
   }
 }
